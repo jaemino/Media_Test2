@@ -1,0 +1,45 @@
+/* 제목 */
+.title{
+  font-size: 28px;
+  text-align: center;
+  border-style: solid; 
+  border-width: 1px;
+  border-color: #AAAAAA;
+  color: #005500;
+  width: 30%;
+  padding: 10px;  /* 위 오른쪽 아래 왼쪽 */
+  margin: 20px auto; /* 가운데 정렬 기능, 20px: 위 아래, auto: 오른쪽 왼쪽*/
+}
+ 
+/* 내용 */
+.content{
+  font-size: 24px;
+  text-align: center;
+  width: 100%;
+  padding: 10px;  /* 위 오른쪽 아래 왼쪽 */
+}
+ 
+/* 하단 메뉴 */
+.bottom{
+  text-align: center;
+  width: 100%;
+  padding: 10px;  /* 위 오른쪽 아래 왼쪽 */
+}
+ 
+/* 테이블에 CSS 적용 */
+.table{
+margin: 0 auto;
+border-color: #AAAAAA;
+border-width: 1px;
+border-style: solid;
+border-collapse: collapse;
+ 
+}
+ 
+TH{
+border: 1px;
+border-color: #D3D3D3;
+border-style: solid;
+color: #FFFFFF;
+background-color: #668db4;
+}
